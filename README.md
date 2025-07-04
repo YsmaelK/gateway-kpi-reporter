@@ -1,4 +1,4 @@
-# gateway-kpi-reporter
+
 # Gateway KPI Reporter 📊
 
 This Python project automates the extraction of daily KPI metrics from a MySQL database and sends reports via email as CSV attachments. It separates metrics by **Organic** and **Bundle** users across four telecom gateways: `MTN-CMR`, `Orange-CMR`, `MTN-CIV`, and `Orange-CIV`.
